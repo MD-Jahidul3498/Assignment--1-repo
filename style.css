@@ -2,7 +2,6 @@
     position: absolute;
     width: 1400px;;
     height: 900px;
-
     left: 0px;
     right:0px;
     top: 0px;
@@ -11,8 +10,8 @@
     background-repeat: no-repeat;
 }
 .first-div{
-justify-content:space-between ;
-margin: 300px 100px 300px 900px;
+    justify-content:space-between ;
+    margin: 300px 100px 300px 900px;
 
 }
 .first-headlin{
@@ -23,28 +22,28 @@ margin: 300px 100px 300px 900px;
 
 }
 .first-paragraph{
- text-align:right ;
- font-family: 'Open Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 28px;
-color: #757575;
+    text-align:right ;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
 
 }
 .first-button{
     text-align: right;
     height: 64px;
-  background:  rgb(255, 145, 0);
-  box-shadow: #757575f1;
-  box-shadow: 2px 0px 7px;
-border-radius: 5px;  
-font-weight: 700;
-font-size: 20px;
-border: 0;
-line-height: 20px;
-padding: 18px 40px 19px 36px;
-margin: 0px 10px 0px 250px;
+    background:  rgb(255, 145, 0);
+    box-shadow: #757575f1;
+    box-shadow: 2px 0px 7px;
+    border-radius: 5px;  
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    line-height: 20px;
+    padding: 18px 40px 19px 36px;
+    margin: 0px 10px 0px 250px;
 
 }
 .first-section{
@@ -53,9 +52,7 @@ margin: 0px 10px 0px 250px;
     background-image: url(../Assignment--1-repo/images/person.png);
     background-repeat: no-repeat;
     width: 1400px;
-    height: 900px;
-    /* margin: 900px 0 0 200px; */
- 
+    height: 900px; 
     left: 400px;
     top: 0px;
     bottom: 0px;
@@ -71,32 +68,28 @@ margin: 0px 10px 0px 250px;
 }
 .first-section-paragraph{
     text-align: left;
-margin: 0px 500px 0px 250px;
-margin: 0px 0px 0px 800px;
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 28px;
-color: #757575;
+    margin: 0px 500px 0px 250px;
+    margin: 0px 0px 0px 800px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
 }
 .first-ul{
     text-align: left;
     margin: 0px 500px 0px 250px;
     margin: 0px 0px 0px 800px;
     padding: 10px 0 10px 0;
-    
- font-family: 'Open Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 28px;
-color: #757575;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
 }
-/* .Plans-srction{
-display: flex;
-text-align: center;
-} */
+  
 .section-headlin{
     text-align: center; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -117,12 +110,13 @@ text-align: center;
     
 }
 .greadian{
-    background-image: url(../Assignment--1-repo/images/gradient2.png),url(../Assignment--1-repo/images/watch.png);
+    background-image: url(../Assignment--1repo/images/gradient2.png),
+    url(../Assignment--1-repo/images/watch.png);
     background-repeat: no-repeat;
-width: 1000px;
-margin: 50px  200px 50px 200px;
-height: 300px;
-border-radius: 10px;
+    width: 1000px;
+    margin: 50px  200px 50px 200px;
+    height: 300px;
+    border-radius: 10px;
 }
 .greadian-h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -136,16 +130,16 @@ border-radius: 10px;
 .readian-button{
     text-align: right;
     height: 64px;
-  background:  orangered;
-  box-shadow: #757575f1;
-  box-shadow: 2px 0px 7px;
-border-radius: 5px;  
-font-weight: 700;
-font-size: 20px;
-border: 0;
-line-height: 20px;
-padding: 18px 40px 19px 36px;
-margin: 0px 10px 0px 50px;
+    background:  orangered;
+    box-shadow: #757575f1;
+    box-shadow: 2px 0px 7px;
+    border-radius: 5px;  
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    line-height: 20px;
+    padding: 18px 40px 19px 36px;
+    margin: 0px 10px 0px 50px;
 
 }
 .fast-footer{
@@ -158,7 +152,7 @@ margin: 0px 10px 0px 50px;
     justify-content: space-between;
     height: 400px;
     margin: 10px 0 10px 100px;
-    padding: ;
+    /* padding: ; */
 
      
 }
@@ -167,18 +161,16 @@ margin: 0px 10px 0px 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .footer-button{
-
- 
-text-align:right;
+    text-align:right;
     height: 44px;
-  background:   honeydew;
-  box-shadow: #757575f1;
-  box-shadow: 2px 0px 7px;
-border-radius: 5px;  
-font-weight: 700;
-font-size: 20px;
-border: 0;
-line-height: 5px;
+    background: honeydew;
+    box-shadow: #757575f1;
+    box-shadow: 2px 0px 7px;
+    border-radius: 5px;  
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    line-height: 5px;
 }
 .foint-coler{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -191,4 +183,5 @@ line-height: 5px;
 #one{
     margin: 10px 0 10px 0;
     background-color: black;
+  
 }
